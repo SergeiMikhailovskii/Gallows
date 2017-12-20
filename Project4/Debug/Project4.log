@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\ok\source\repos\project4\project4\source.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ok\source\repos\project4\project4\source.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ok\source\repos\project4\project4\source.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ok\source\repos\project4\project4\source.cpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ok\source\repos\project4\project4\source.cpp(198): warning C4018: <: несоответствие типов со знаком и без знака
+  Project4.vcxproj -> C:\Users\ok\source\repos\Project4\Debug\Project4.exe
